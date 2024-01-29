@@ -1,0 +1,244 @@
+.wrapper {
+    margin: 1em;
+}
+
+body {
+    background-color: #191414;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Algemene text styling */
+
+h1,
+h2,
+h3,
+h4,
+a {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #1db954;
+    transition: .25s ease;
+}
+
+nav ul {
+    margin: 0;
+    padding: 1em 2em;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 3em;
+
+    list-style-type: none;
+
+    background-color: #313131;
+    border-radius: 50px;
+}
+
+/* header styling */
+
+header img {
+    width: 7em;
+}
+
+header nav ul li:first-of-type {
+    margin-right: auto;
+}
+
+header nav li:last-of-type a {
+    color: black;
+}
+
+header nav li:last-of-type {
+    background-color: #1db954;
+    padding: 1em;
+    border-radius: 25px;
+
+    transition: .25s ease;
+}
+
+header nav li:last-of-type:hover {
+    background-color: white;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+main ul {
+    padding-left: 0;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+
+    list-style-type: none;
+}
+
+main h2 a {
+    color: #1db954;
+}
+
+/* styling review blokken */
+
+.albums li {
+    display: flex;
+    flex-direction: column;
+
+    width: 200px;
+    height: 425px;
+    padding: 1em;
+
+    background-color: #313131;
+    border-radius: 20px;
+
+    cursor: pointer;
+
+    transition: box-shadow 0.3s ease;
+}
+
+.albums li:hover {
+    box-shadow: #0f723286 0px -50px 36px -28px inset;
+    ;
+}
+
+.albums img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.albums li a:last-of-type {
+    margin-top: auto;
+    background-color: #1db954;
+    padding: 1em;
+    border-radius: 25px;
+
+    text-align: center;
+
+    transition: .25s ease;
+}
+
+.albums li a:last-of-type:hover {
+    background-color: white;
+}
+
+/* best new music styling */
+
+.best-new-music {
+    padding-top: 1em;
+}
+
+.best-new-music ol {
+    margin: 0;
+    padding-left: 20px;
+}
+
+/* review styling */
+
+.reviews p {
+    max-width: 700px;
+}
+
+.reviews ul {
+    display: flex;
+}
+
+.reviews li {
+    display: flex;
+    flex-direction: column;
+
+    padding: 1em;
+    width: 46%;
+
+    background-color: #313131;
+    border-radius: 20px;
+
+    cursor: pointer;
+
+    transition: box-shadow 0.3s ease;
+}
+
+.reviews a {
+    margin-top: auto;
+    background-color: #1db954;
+    padding: 1em;
+    border-radius: 25px;
+
+    text-align: center;
+
+    transition: .25s ease;
+}
+
+.reviews a:hover {
+    background-color: white;
+}
+
+.reviews img {
+    width: 100%;
+    margin: auto;
+
+    border-radius: 10px;
+}
+
+/* footer styling */
+
+footer {
+    margin-top: auto;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+footer nav {
+    background-color: #313131;
+    padding-top: .5em;
+    padding-bottom: .5em;
+}
+
+footer nav ul {
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+footer nav a {
+    transition: .25s ease;
+}
+
+footer nav a:hover {
+    color: #1db954;
+}
+
+/* font */
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('path/to/montserrat-regular.woff2') format('woff2'),
+        url('path/to/montserrat-regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('path/to/montserrat-bold.woff2') format('woff2'),
+        url('path/to/montserrat-bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}

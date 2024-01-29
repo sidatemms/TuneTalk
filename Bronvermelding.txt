@@ -1,0 +1,25 @@
+Naam: Sidate Seck
+Studentnummer: 500869042
+Klas: Turqouise
+(herkansing)
+
+LINK NAAR LIVE WEBSITE:
+
+
+Bronvermelding:
+Code:
+1. Coyier, C. (2022). A complete guide to Flexbox | CSS-Tricks. CSS-Tricks. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+2. Beautiful CSS box-shadow examples - CSS Scan. (z.d.). https://getcssscan.com/css-box-shadow-examples 
+
+Afbeeldingen:
+1. Wikipedia contributors. (2024, 23 januari). Take Care (album). Wikipedia. https://en.wikipedia.org/wiki/Take_Care_%28album%29
+2. Wikipedia contributors. (2023, 13 september). Ignorance Is Bliss (Skepta Album). Wikipedia. https://en.wikipedia.org/wiki/Ignorance_Is_Bliss_%28Skepta_album%29
+3. Wikipedia contributors. (2024b, januari 24). Off the wall. Wikipedia. https://en.wikipedia.org/wiki/Off_the_Wall
+4. Nast, C. (2024, 17 januari). 21 Savage: American Dream. Pitchfork. https://pitchfork.com/reviews/albums/21-savage-american-dream/
+5. Pink Friday 2 by Nicki Minaj. (z.d.). Genius. https://genius.com/albums/Nicki-minaj/Pink-friday-2
+6. Lil Tecca - Down with me. (z.d.). SoundCloud. https://soundcloud.com/liltecca/downwithme
+
+Album reviews:
+1. Beaumont-Thomas, B. (2019, 31 mei). Skepta: Ignorance is Bliss Review – Sex, Guns and Man Bags from Grime’s prodigal son. the Guardian. https://www.theguardian.com/music/2019/may/31/skepta-ignorance-is-bliss-review-boy-better-know
+2. Nast, C. (2011, 14 november). Drake: Take care. Pitchfork. https://pitchfork.com/reviews/albums/16039-take-care/
+3. Nast, C. (2016, 24 februari). Michael Jackson: Off the wall. Pitchfork. https://pitchfork.com/reviews/albums/21548-off-the-wall/
